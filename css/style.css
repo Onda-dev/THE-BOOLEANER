@@ -1,0 +1,30 @@
+.banner {
+    height: 180px;
+    background-color: lightskyblue;
+    background-image: url(../img/pattern.png);
+}
+
+.banner>img {
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+.grey {
+    color: grey;
+    font-weight: bold;
+}
+
+a {
+    color: lightgreen;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+.data {
+    font-size: 12px;
+}
