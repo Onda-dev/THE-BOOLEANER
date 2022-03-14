@@ -28,3 +28,30 @@ h1 {
 .data {
     font-size: 12px;
 }
+
+.didascalia {
+    font-size: 13px;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+thead {
+    background-color: rgb(59, 191, 235);
+    color: white;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+.white {
+    background-color: white;
+}
